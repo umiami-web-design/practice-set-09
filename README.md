@@ -1,6 +1,6 @@
 # README
 
-## Practice Set 7: Floats & Positioning
+## Practice Set 8: Floats & Positioning
 
 ### Objectives
 
