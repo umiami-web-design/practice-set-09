@@ -1,0 +1,15 @@
+body {
+  color: #222;
+  font-family: "Trebuchet MS", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+}
+
+#wrapper {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* **************************************** */
+/* DO NOT TOUCH ANY STYLES ABOVE THIS LINE! */
+/* WRITE YOUR STYLES BELOW! 👇👇👇         */
+/* **************************************** */
