@@ -1,6 +1,6 @@
 # README
 
-## Practice Set 8: Floats & Positioning
+## Practice Set 9: Floats & Positioning
 
 ### Objectives
 
@@ -14,16 +14,16 @@ You can download this repository by clicking the green 'Code' button and selecti
 
 ### Files
 
-Once this repository has been cloned (downloaded) to your computer, you should have the following files within the `practice-set-08` directory on your computer:
+Once this repository has been cloned (downloaded) to your computer, you should have the following files within the `practice-set-09` directory on your computer:
 
 - README.md (this file)
 - 01-floats
 - 02-positioning
 - 03-sebastians-resume
 
-(Exercise 03 is cumulative and creative. This isn't necessary for understanding the concepts, but it gives you an opportunity to apply what you have learned in a way that's more practical.)
+*Note:* Exercise 03 is cumulative and creative. This isn't necessary for understanding the concepts, but it gives you an opportunity to apply what you have learned in a way that's more practical. It is recommend to build this using only floats, positioning and the box model -- the solution will focus on building the page using only those three techniques.
 
-Do not create or move any files outside of the `practice-set-08` directory for this exercise!
+Do not create or move any files outside of the `practice-set-09` directory for this exercise!
 
 ### Instructions
 
@@ -41,8 +41,3 @@ Instructions for each exercise are included in their respective folder.
 - **Track your questions.** If there's something you are unsure of, make a note to yourself in a notebook or using comments in your code. We can address these in class.
 
 - **Be patient.** If you run into a difficult task, try working through the problem. It is okay to take your time. Refer to your notes or book. (Be careful about random sources on the Internet; they may give you bad information.)
-
-
-### Solution
-
-A solution (plus a copy of these files for future practice) for this exercise will be posted by Monday, Oct. 19.
